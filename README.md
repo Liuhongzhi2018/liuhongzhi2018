@@ -15,6 +15,7 @@ My full name is Hongzhi Liu, a Master degree candidate.
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 
 [![Gmail Badge](https://img.shields.io/badge/-liuhongzhi_006@163.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:liuhongzhi_006@163.com)](mailto:liuhongzhi_006@163.com)
+[[Gmail Badge](https://img.shields.io/badge/-henryliucv@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:henryliucv@gmail.com)](mailto:henryliucv@gmail.com)
 
 ![](https://github-readme-stats.vercel.app/api?username=liuhongzhi2018)
 
