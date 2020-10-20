@@ -1,9 +1,27 @@
 ### Hi there, I'm Henry! 👋
 
+My full name is Hongzhi Liu, a Master degree candidate.
+
+![](https://github-readme-stats.vercel.app/api?username=liuhongzhi2018)
+
+- 🔭 I’m currently research on Computer Vision and Deep Learning.
+- 🚀 I use daily:
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+- 💻 I work using:
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
+
+
+[![Gmail Badge](https://img.shields.io/badge/-15203012@iubat.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:liuhongzhi_006@163.com)](mailto:liuhongzhi_006@163.com)
+
 <!--
 **Liuhongzhi2018/liuhongzhi2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My full name is Hongzhi Liu, a Master degree candidate.
+
 
 Here are some ideas to get you started:
 
@@ -16,6 +34,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://github-readme-stats.vercel.app/api?username=liuhongzhi2018)
-
