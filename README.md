@@ -3,7 +3,7 @@
 My full name is Hongzhi Liu, a Master degree candidate.
 
 
-- 🔭 I' m currently research on Computer Vision and Deep Learning.
+- 🔭 I'm currently research on Computer Vision and Deep Learning.
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
