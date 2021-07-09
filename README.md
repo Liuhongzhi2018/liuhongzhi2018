@@ -1,6 +1,6 @@
 ### Hi there, I'm Henry! 👋
 
-My full name is Hongzhi Liu, a Master degree candidate.
+My full name is Hongzhi Liu, a Ph.D. candidate from SEU.
 
 
 - 🔭 I'm currently research on Computer Vision and Deep Learning.
