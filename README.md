@@ -1,4 +1,4 @@
-### Hi there, I'm Henry! 👋
+### Hi there, I'm Harold! 👋
 
 My full name is Hongzhi Liu, a Ph.D. candidate from SEU.
 
